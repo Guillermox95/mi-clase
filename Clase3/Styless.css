@@ -1,0 +1,44 @@
+/*p {
+  color: red;
+  background-color: blue;
+  text-align: start;
+  width: 270px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 10px;
+  padding: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 12px;
+}*/
+
+/*section {
+  color: blue;
+  background-color: green;
+  text-align: start;
+  width: 270px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 10px;
+  padding: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 12px;
+}
+P {
+  font-family: "Open Sans", sans-serif;
+}*/
+
+.myFirstClass {
+  color: blue;
+  font-size: 50px;
+}
+
+.Class-color {
+  color: red;
+  font-size: 28px;
+}
+
+#parrafo1 {
+  color: green;
+  font-size: 35px;
+  background-color: orangered;
+}

@@ -1,0 +1,92 @@
+/*p {
+  color: red;
+  background-color: blue;
+  text-align: start;
+  width: 270px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 10px;
+  padding: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 12px;
+}*/
+
+/*section {
+  color: blue;
+  background-color: green;
+  text-align: start;
+  width: 270px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 10px;
+  padding: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 12px;
+}
+P {
+  font-family: "Open Sans", sans-serif;
+}*/
+
+.myFirstClass {
+  color: blue;
+  font-size: 50px;
+}
+
+.Class-color {
+  color: red;
+  font-size: 28px;
+}
+.primera-clase {
+  font-size: 30px;
+  color: green;
+}
+
+.segunda-clase {
+  color: blue;
+  font-size: 35px;
+}
+
+.primera-clase,
+.segunda-clae button {
+  width: 250px;
+  height: 150px;
+}
+#parrafo1 {
+  color: green;
+  font-size: 35px;
+  background-color: orangered;
+}
+
+#parrafo1 > button {
+  background-color: blue;
+}
+#parrafo1 div:nth-child(0) > button {
+  border-radius: 50%;
+  color: white;
+}
+
+.fondo-verde {
+  background-color: green;
+  color: red;
+  font-size: 25px;
+  padding: 25px;
+  border: 10px solid;
+  border-color: brown;
+  border-radius: 20px;
+}
+
+div > button {
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.prueba-guille {
+  margin-left: 25px;
+  color: blue;
+}
+
+.inline {
+  display: none;
+}
